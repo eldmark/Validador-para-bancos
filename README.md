@@ -18,7 +18,7 @@ Este proyecto es una aplicación en Scala diseñada para validar datos bancarios
 
 1. Clona este repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/eldmark/Validador-para-bancos.git
     ```
 2. Abre el proyecto en tu IDE favorito.
 3. Compila y ejecuta el archivo principal.
