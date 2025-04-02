@@ -1,0 +1,16 @@
+nombre,edad,historial_crediticio,ingreso,deuda_total,puntaje_credito,tiene_garantia
+Juan Pérez,25,6,2000,500,720,false
+Ana Gómez,30,3,2500,700,680,true
+Carlos Ramírez,22,4,1800,800,710,false
+María López,28,5,3000,600,690,true
+Luis Fernández,35,2,4000,900,750,false
+Sofía Martínez,27,7,3200,400,730,true
+Diego Torres,29,6,2800,600,700,false
+Lucía González,24,3,2200,500,680,true
+Andrés Herrera,31,8,3500,700,750,false
+Valeria Cruz,26,4,2700,800,710,true
+Javier Morales,33,5,3100,900,720,false
+Camila Vega,23,2,2000,400,690,true
+Fernando Ríos,34,6,4000,1000,740,false
+Isabela Ortiz,25,3,2500,600,700,true
+Ricardo Castillo,28,7,3000,500,730,false
