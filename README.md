@@ -45,4 +45,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ## Autor
 
-Marco - Segundo Año, Algoritmos y Estructuras de Datos.
+Marco Díaz 24229 - Segundo Año, Algoritmos y Estructuras de Datos.
